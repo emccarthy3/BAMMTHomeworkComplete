@@ -1,0 +1,43 @@
+/*Copyright (c) Betsey A. McCarthy
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 13, 2015, 10:31:03 PM
+    Author     : emccarthy3
+*/
+@media (max-width:500px){
+    header{
+        overflow: hidden;
+    }
+    .right{
+        clear:both;
+    } 
+}
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+header {
+    text-align: center;
+}
+h1{
+    margin-bottom: 0px;
+}
+h2 {
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+ul{
+    margin: 0px;
+}
+.red{
+    color:red;
+}
+.right{
+    float: right;
+}
+.italics{
+    font-style: italic;
+}
